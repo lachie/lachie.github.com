@@ -3,8 +3,7 @@
   padding:0;
 }
 body {
-  background: #99ad72 url(http://farm2.static.flickr.com/1059/1327753322_305daa46ea_b.jpg) no-repeat scroll center;
-  background-attachment: fixed;
+  background: #72a8ad url(http://farm2.static.flickr.com/1059/1327753322_305daa46ea_b.jpg) no-repeat fixed center;
 }
 ul {
   left:10%;
