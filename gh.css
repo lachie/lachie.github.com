@@ -1,25 +1,25 @@
 * {
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
 }
 body {
   background: #72a8ad url(http://farm2.static.flickr.com/1059/1327753322_305daa46ea_b.jpg) no-repeat fixed center;
 }
 ul {
-  left:10%;
-  list-style-type:none;
-  position:absolute;
-  top:60%;
+  left: 10%;
+  list-style-type: none;
+  position: absolute;
+  top: 60%;
 }
 #repos {
-  top:12%;
+  top: 12%;
 }
 a {
   background: #000;
   padding: 5px;
-  color:#fff;
-  font-family:Courier;
-  line-height:22px;
+  color: #fff;
+  font-family: Courier;
+  line-height: 22px;
   margin: 5px;
   display: inline-block;
   text-decoration: none;
@@ -29,7 +29,7 @@ a:hover {
   color: #000;
 }
 h3 {
-  font-family:Helvetica;
+  font-family: Helvetica;
   font-size: 30px;
 }
 li.repo {
